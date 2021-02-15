@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cc57acb4-8eae-4f0a-9b95-1909aa71079f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../usermodel-initial/src/main/java/com/lambdaschool/usermodel/controllers/LogoutController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../usermodel-initial/src/main/java/com/lambdaschool/usermodel/controllers/OpenController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../usermodel-initial/src/main/java/com/lambdaschool/usermodel/models/UserMinimum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lambdaschool/usermodel/config/DataSourceConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../usermodel-initial/src/main/java/com/lambdaschool/usermodel/config/ResourceServerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../usermodel-initial/src/main/java/com/lambdaschool/usermodel/config/ResourceServerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../usermodel-initial/src/main/java/com/lambdaschool/usermodel/services/HelperFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/../usermodel-initial/src/main/java/com/lambdaschool/usermodel/services/HelperFunctions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../usermodel-initial/src/main/java/com/lambdaschool/usermodel/services/HelperFunctionsImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../usermodel-initial/src/main/java/com/lambdaschool/usermodel/services/HelperFunctionsImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../usermodel-initial/src/main/java/com/lambdaschool/usermodel/services/SecurityUserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../usermodel-initial/src/main/java/com/lambdaschool/usermodel/services/SecurityUserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../usermodel-initial/src/main/java/com/lambdaschool/usermodel/services/UserAuditing.java" beforeDir="false" afterPath="$PROJECT_DIR$/../usermodel-initial/src/main/java/com/lambdaschool/usermodel/services/UserAuditing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../usermodel-initial/src/main/java/com/lambdaschool/usermodel/services/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../usermodel-initial/src/main/java/com/lambdaschool/usermodel/services/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../usermodel-initial/src/main/java/com/lambdaschool/usermodel/services/UseremailServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../usermodel-initial/src/main/java/com/lambdaschool/usermodel/services/UseremailServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lambdaschool/usermodel/UserModelApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lambdaschool/usermodel/UserModelApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\alexj\.m2\wrapper\dists\apache-maven-3.6.0-bin\2dakv70gp803gtm5ve1ufmvttn\apache-maven-3.6.0" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1he6Yrnw93zlDUBqFFn3Rqj5RyS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean heroku:deploy -X" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="UserModelApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="usermodel" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lambdaschool.usermodel.UserModelApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc57acb4-8eae-4f0a-9b95-1909aa71079f" name="Default Changelist" comment="" />
+      <created>1600359261951</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600359261951</updated>
+      <workItem from="1600359263031" duration="2162000" />
+      <workItem from="1600362439747" duration="4296000" />
+      <workItem from="1600371055362" duration="26000" />
+      <workItem from="1600371094213" duration="2000" />
+      <workItem from="1600395133830" duration="4825000" />
+      <workItem from="1600453248976" duration="521000" />
+      <workItem from="1600466955172" duration="2159000" />
+      <workItem from="1600560517484" duration="6459000" />
+      <workItem from="1600648563435" duration="1606000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1326" height="346" key="GridCell.Tab.0.bottom" timestamp="1600370139371">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1326" height="346" key="GridCell.Tab.0.bottom/510.1080.1368.892/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600370139371" />
+    <state width="1326" height="346" key="GridCell.Tab.0.bottom/510.1080.1368.892/1920.0.1920.1040/0.0.1920.1040@510.1080.1368.892" timestamp="1600365626735" />
+    <state width="1326" height="346" key="GridCell.Tab.0.center" timestamp="1600370139371">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1326" height="346" key="GridCell.Tab.0.center/510.1080.1368.892/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600370139371" />
+    <state width="1326" height="346" key="GridCell.Tab.0.center/510.1080.1368.892/1920.0.1920.1040/0.0.1920.1040@510.1080.1368.892" timestamp="1600365626735" />
+    <state width="1326" height="346" key="GridCell.Tab.0.left" timestamp="1600370139371">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1326" height="346" key="GridCell.Tab.0.left/510.1080.1368.892/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600370139371" />
+    <state width="1326" height="346" key="GridCell.Tab.0.left/510.1080.1368.892/1920.0.1920.1040/0.0.1920.1040@510.1080.1368.892" timestamp="1600365626735" />
+    <state width="1326" height="346" key="GridCell.Tab.0.right" timestamp="1600370139371">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1326" height="346" key="GridCell.Tab.0.right/510.1080.1368.892/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600370139371" />
+    <state width="1326" height="346" key="GridCell.Tab.0.right/510.1080.1368.892/1920.0.1920.1040/0.0.1920.1040@510.1080.1368.892" timestamp="1600365626735" />
+    <state x="2460" y="149" width="944" height="790" key="run.anything.popup" timestamp="1600396010891">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2460" y="149" width="944" height="790" key="run.anything.popup/510.1080.1368.892/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1600396010891" />
+    <state x="895" y="1208" width="672" height="677" key="run.anything.popup/510.1080.1368.892/1920.0.1920.1040/0.0.1920.1040@510.1080.1368.892" timestamp="1600365102649" />
+  </component>
+</project>

@@ -1,0 +1,5 @@
+com\lambdaschool\usermodel\controllers\UserControllerIntegrationTest.class
+com\lambdaschool\usermodel\SeedData.class
+com\lambdaschool\usermodel\controllers\UserControllerUnitTest.class
+com\lambdaschool\usermodel\UserModelApplication.class
+com\lambdaschool\usermodel\services\UserServiceImplTest.class
